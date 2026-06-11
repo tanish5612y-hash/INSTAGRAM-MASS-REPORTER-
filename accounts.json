@@ -1,6 +1,6 @@
 [
-    {"username": "user1_insta", "password": "pass1234"},
-    {"username": "user2_insta", "password": "secure567"},
-    {"username": "user3_insta", "password": "mypwd890"},
+    {"eli_jang_hu_be": "user1_insta", "password": "pass1234"},
+    {"eli_jang_hu_be": "user2_insta", "password": "secure567"},
+    {"eli_jang_hu_be": "user3_insta", "password": "mypwd890"},
     ...
 ]
